@@ -1,0 +1,15 @@
+.buttonss {
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.content {
+    padding: 30px;
+    text-align: center;
+}
+
+.res {
+    margin-top: 50px;
+    text-align: center;
+}
